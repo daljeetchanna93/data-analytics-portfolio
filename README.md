@@ -43,7 +43,7 @@ Data analyst with an MBA (Texas A&M University–Corpus Christi, 4.0 GPA) and a 
 
 ## Run locally
 ```bash
-git clone https://github.com/<your-username>/data-analytics-portfolio.git
+git clone https://github.com/daljeetchanna93/data-analytics-portfolio.git
 cd data-analytics-portfolio
 pip install -r requirements.txt
 jupyter notebook
