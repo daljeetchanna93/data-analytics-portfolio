@@ -2,7 +2,7 @@
 
 Data analyst with an MBA (Texas A&M University–Corpus Christi, 4.0 GPA) and a background in product and market analysis. These projects work through real business questions end to end on public datasets: cleaning the data, analyzing it in SQL, Python and Excel, testing results statistically, charting them, and turning them into recommendations a business can act on.
 
-📍 Austin, TX · Open to remote · [LinkedIn](https://linkedin.com/in/your-profile) · daljeetchanna93@gmail.com
+📍 Austin, TX · Open to remote · [LinkedIn](https://www.linkedin.com/in/daljeetkaur93/) · daljeetchanna93@gmail.com
 
 ## Projects
 
