@@ -1,0 +1,6 @@
+TenureBand,employees,leavers,attrition_rate,p_value (chi²)
+0–1 yr,215,75,0.3488,0.0
+2 yrs,127,27,0.2126,0.0
+3–5 yrs,434,60,0.1382,0.0
+6–10 yrs,448,55,0.1228,0.0
+10+ yrs,246,20,0.0813,0.0

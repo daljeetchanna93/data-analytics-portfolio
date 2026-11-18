@@ -1,0 +1,3 @@
+OverTime,employees,leavers,attrition_rate,p_value (chi²)
+No,1054,110,0.1044,0.0
+Yes,416,127,0.3053,0.0

@@ -1,0 +1,22 @@
+,odds_multiplier
+OverTime_Yes,4.155
+BusinessTravel_Travel_Frequently,3.983
+BusinessTravel_Travel_Rarely,2.102
+MaritalStatus_Single,2.083
+NumCompaniesWorked,1.514
+YearsSinceLastPromotion,1.509
+DistanceFromHome,1.31
+Department_Sales,1.294
+JobLevel,1.172
+MaritalStatus_Married,1.098
+TrainingTimesLastYear,0.874
+StockOptionLevel,0.858
+WorkLifeBalance,0.814
+JobSatisfaction,0.713
+MonthlyIncome,0.704
+JobInvolvement,0.702
+TotalWorkingYears,0.7
+Age,0.694
+YearsAtCompany,0.694
+EnvironmentSatisfaction,0.685
+Department_Research & Development,0.59

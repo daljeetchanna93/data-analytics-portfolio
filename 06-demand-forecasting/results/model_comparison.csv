@@ -1,0 +1,6 @@
+model,MAE,RMSE,WAPE,Bias
+"Last year, same day",1982.0978,2306.2373,0.3837,-0.3414
+Last year × growth,1287.7169,1690.0056,0.2493,0.1149
+"Last week, same weekday",1457.587,2047.1676,0.2822,0.0851
+Ridge regression,941.7052,1328.921,0.1823,0.0563
+Gradient boosting,1096.8641,1514.8174,0.2123,0.1127

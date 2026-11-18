@@ -1,0 +1,4 @@
+risk_tier,employees,actual_attrition,share_of_all_leavers
+Low,666,0.042,0.1181
+Medium,478,0.1004,0.2025
+High,326,0.4939,0.6793

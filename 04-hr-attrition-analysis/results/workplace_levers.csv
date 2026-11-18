@@ -1,0 +1,9 @@
+factor,highest_risk_group,highest_rate,lowest_risk_group,lowest_rate,ratio,p_value
+Job involvement,1,0.3373,4,0.0903,3.7368,0.0
+Stock option level,0,0.2441,2,0.0759,3.2134,0.0
+Business travel,Travel_Frequently,0.2491,Non-Travel,0.08,3.1137,0.0
+Overtime,Yes,0.3053,No,0.1044,2.9252,0.0
+Marital status (context),Single,0.2553,Divorced,0.1009,2.53,0.0
+Work-life balance,1 Bad,0.3125,3 Better,0.1422,2.1973,0.001
+Job satisfaction,1 Low,0.2284,4 Very high,0.1133,2.0158,0.0006
+Environment satisfaction,1 Low,0.2535,4 Very high,0.1345,1.8845,0.0001

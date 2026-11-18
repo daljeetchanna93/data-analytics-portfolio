@@ -1,0 +1,5 @@
+IncomeQuartile,employees,leavers,attrition_rate,p_value (chi²)
+Q1 (lowest),369,108,0.2927,0.0
+Q2,366,52,0.1421,0.0
+Q3,367,39,0.1063,0.0
+Q4 (highest),368,38,0.1033,0.0

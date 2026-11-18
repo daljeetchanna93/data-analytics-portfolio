@@ -1,0 +1,6 @@
+step,rows_removed,rows_left
+Drop rows with no CustomerID (guest checkouts),135080,406829
+Drop cancellation invoices (InvoiceNo starts with 'C'),8905,397924
+Drop zero/negative quantity or price,40,397884
+"Drop postage, fees and manual adjustments",1547,396337
+Drop exact duplicate lines,5187,391150

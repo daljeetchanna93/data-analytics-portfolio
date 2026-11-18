@@ -1,0 +1,10 @@
+JobRole,employees,leavers,attrition_rate,p_value (chi²)
+Healthcare Representative,131,9,0.0687,0.0
+Human Resources,52,12,0.2308,0.0
+Laboratory Technician,259,62,0.2394,0.0
+Manager,102,5,0.049,0.0
+Manufacturing Director,145,10,0.069,0.0
+Research Director,80,2,0.025,0.0
+Research Scientist,292,47,0.161,0.0
+Sales Executive,326,57,0.1748,0.0
+Sales Representative,83,33,0.3976,0.0

@@ -1,0 +1,5 @@
+delivery_bucket,orders,pct_of_orders,avg_days_to_deliver,avg_review_score,pct_one_star
+1. On time / early,88644,91.9,10.9,4.28,6.8
+2. Late 1-3 days,2662,2.8,21.1,3.75,14.2
+3. Late 4-7 days,1819,1.9,26.7,2.3,53.7
+4. Late 8+ days,3345,3.5,42.5,1.72,68.9

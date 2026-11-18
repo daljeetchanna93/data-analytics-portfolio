@@ -1,0 +1,5 @@
+Cluster,customers,Recency,Frequency,Monetary,revenue,Cluster_name,pct_revenue
+0,820,17.0,2.0,467.28,443648.2,New / developing,5.08
+1,1646,173.0,1.0,296.67,570883.17,Lost low-value,6.53
+2,1182,52.0,4.0,1357.54,2129199.84,Regular mid-value,24.37
+3,686,8.0,10.0,3715.44,5593496.43,VIP,64.02
